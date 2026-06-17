@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Payanshi2006/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
