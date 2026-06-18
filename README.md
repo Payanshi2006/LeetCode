@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Payanshi2006/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Payanshi2006/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
