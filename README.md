@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Payanshi2006/LeetCode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
+| [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Payanshi2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Payanshi2006/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Payanshi2006/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Payanshi2006/LeetCode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
