@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Payanshi2006/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
