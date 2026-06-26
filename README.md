@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Payanshi2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Payanshi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Payanshi2006/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Payanshi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Payanshi2006/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Payanshi2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Payanshi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
