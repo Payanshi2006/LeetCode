@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Payanshi2006/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Payanshi2006/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
 | [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Payanshi2006/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Payanshi2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Payanshi2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
