@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Payanshi2006/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Payanshi2006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Payanshi2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Payanshi2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Payanshi2006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Payanshi2006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Payanshi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Payanshi2006/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Payanshi2006/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/Payanshi2006/LeetCode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Payanshi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Payanshi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
