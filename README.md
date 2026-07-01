@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Payanshi2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/Payanshi2006/LeetCode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Payanshi2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Payanshi2006/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Payanshi2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Payanshi2006/LeetCode/tree/master/0912-sort-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Payanshi2006/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Payanshi2006/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Payanshi2006/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Payanshi2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Payanshi2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Payanshi2006/LeetCode/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Payanshi2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Payanshi2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
